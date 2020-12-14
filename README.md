@@ -1,2 +1,2 @@
-# multi-account
+# Multi-Account
 This IAAC repository explains managing the multiple environment in multiple account
